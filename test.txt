@@ -1,3 +1,7 @@
 File #2
 
+<<<<<<< HEAD
+Changes possibly under Test Branch 01
+=======
 Change made in github.com that may clash with the one on the local machine.
+>>>>>>> refs/remotes/origin/master
